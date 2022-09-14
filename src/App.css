@@ -1,0 +1,28 @@
+.doggy_img {
+  width: 30%;
+  height: 350px;
+}
+
+.button {
+  width: 10%;
+  height: 53px;
+  font-size: 25px;
+  background-color: #1a91db;
+  color: white;
+  border: none;
+  margin: 0 30px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.select {
+  width: 20%;
+  height: 40px;
+  font-size: 25px;
+  color: #1a91db;
+}
+
+#root {
+  margin: 40px auto;
+  width: 90%;
+}
